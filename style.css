@@ -1,0 +1,13 @@
+.cabecalho{
+    display:flex;
+    flex-direction: row;
+}
+
+.cabecalho_nomedaempresa{
+    font-family: "Poppins"; sant-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3.5em;
+    color:#0000ff;
+    padding: 0 50px;
+}

@@ -10,4 +10,8 @@
     font-size: 3.5em;
     color:#0000ff;
     padding: 0 50px;
+    width: 50%;
+    order: 2;
 }
+.cabecalho__logo{
+    order: 1;
